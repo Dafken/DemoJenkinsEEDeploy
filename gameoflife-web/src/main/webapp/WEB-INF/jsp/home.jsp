@@ -68,12 +68,7 @@
         Life. The Game of Life is a cellular automaton devised by the British
         mathematician John Horton Conway way back in 1970.</p>
 
-    <p>The universe of the Game of Life is an infinite two-dimensional
-        orthogonal grid of square cells, each of which is in one of two possible
-        states, live or dead. Every cell interacts with its eight neighbors,
-        which are the cells that are directly horizontally, vertically, or
-        diagonally adjacent. At each step in time, the following transitions
-        occur:
+    <p>T
     <ul>
         <li>Any live cell with fewer than two live neighbours dies, as if
             caused by underpopulation.

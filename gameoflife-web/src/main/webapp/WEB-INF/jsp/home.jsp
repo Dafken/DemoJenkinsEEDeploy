@@ -64,7 +64,7 @@
 <h2>Welcome to Conway's Game Of Life!</h2>
 
 <div class="intro">
-    <p>Dit is een test voor te controleren of github / jenkins / eestack werkt.</p>
+    <p>Kevin Approves.</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
